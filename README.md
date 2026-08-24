@@ -29,10 +29,10 @@ I prefer projects that move beyond a notebook demo: **problem definition → dat
 
 | Project | Engineering Focus | Evidence / Highlights |
 |---|---|---|
-| **[DeepfakeULTRA](https://github.com/seydivakkas/DeepfakeULTRA)** | Reliability-aware deepfake forensics with CNN + Transformer fusion, frequency-domain analysis and XAI | **0.9839 Val AUC**, cross-dataset evaluation on 5 external datasets, ~200 ms GPU inference |
-| **[SİNAPTİC5G](https://github.com/seydivakkas/sinaptic5g)** | Real-time Edge AI and 5G road-safety perception | **15,487-image** governed dataset pipeline, 9 canonical labels, driver-action and object perception stack |
-| **[WeaveVision](https://github.com/seydivakkas/merinpsVision)** | One-class visual anomaly detection for textile quality control | PatchCore / EfficientAD, `PASS · REVIEW · FAIL · ABSTAIN`, drift monitoring, **262/262 tests** |
-| **[AI Carpet Design](https://github.com/seydivakkas/hali-ai-carpet-design)** | Controlled generative design with SDXL + LoRA | Provenance-aware training, retrieval, CIELAB / ΔE and geometry validation, **52 passing tests** |
+| **[DeepfakeULTRA](https://github.com/seydivakkas/DeepfakeULTRA)** | Reliability-aware deepfake forensics with multi-evidence fusion, frequency analysis and XAI | **0.9820 internal ROC-AUC**, **0.7405 mean external ROC-AUC** across 5 datasets, explicit failure disclosure |
+| **[SİNAPTİC5G](https://github.com/seydivakkas/sinaptic5g)** | Real-time Edge AI and 5G road-safety perception | **15,487-image** governed dataset pipeline, 9 canonical labels, model-lock/FTR acceptance evidence |
+| **[WeaveVision](https://github.com/seydivakkas/WeaveVision)** | One-class visual anomaly detection for textile quality control | PatchCore / EfficientAD, `PASS · REVIEW · FAIL · ABSTAIN`, drift lifecycle, live CI |
+| **[AI Carpet Design](https://github.com/seydivakkas/hali-ai-carpet-design)** | Controlled generative design with SDXL + LoRA | Provenance-aware workflow, retrieval, CIELAB / ΔE analysis, live CI |
 
 ---
 
@@ -40,7 +40,7 @@ I prefer projects that move beyond a notebook demo: **problem definition → dat
 
 | Project | Focus | Highlight |
 |---|---|---|
-| **[TinyOLED Desktop](https://github.com/seydivakkas/TinyOLED-Desktop)** | Raspberry Pi + SSD1306 embedded desktop | Custom framebuffer engine, bitmap renderer, cooperative scheduler, **57+ apps** and browser simulator |
+| **[TinyOLED Desktop](https://github.com/seydivakkas/TinyOLED-Desktop)** | Raspberry Pi + SSD1306 embedded desktop | Custom framebuffer engine, cooperative scheduler, **57+ apps** and live browser simulator |
 | **[MPI Parallel Matrix Multiplication](https://github.com/seydivakkas/mpi-parallel-matrix-multiplication)** | C / Python distributed computing benchmarks | MPI scaling experiments across P=1,2,4,8,16; Python reached **11.33× speedup at P=16** |
 
 ---
