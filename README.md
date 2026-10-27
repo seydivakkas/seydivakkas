@@ -34,7 +34,6 @@ I prefer projects that move beyond a notebook demo: **problem definition → dat
 |---|---|---|
 | **AI Research** | **[DeepfakeULTRA](https://github.com/seydivakkas/DeepfakeULTRA)** | Multi-evidence deepfake forensics, XAI, domain shift and external evaluation |
 | **Edge AI** | **[SİNAPTİC5G](https://github.com/seydivakkas/sinaptic5g)** | Real-time perception, tracking, governed data pipelines and model-lock evidence |
-| **Industrial AI** | **[WeaveVision](https://github.com/seydivakkas/WeaveVision)** | One-class anomaly detection, calibrated decisions, drift lifecycle and CI |
 | **Generative AI** | **[Halı AI Carpet Design](https://github.com/seydivakkas/hali-ai-carpet-design)** | Controlled SDXL + LoRA generation, provenance, retrieval and analytical validation |
 | **Embedded Systems** | **[TinyOLED Desktop](https://github.com/seydivakkas/TinyOLED-Desktop)** | Raspberry Pi, SSD1306, custom framebuffer architecture and browser simulation |
 | **HPC** | **[MPI Parallel Matrix Multiplication](https://github.com/seydivakkas/mpi-parallel-matrix-multiplication)** | Distributed C/Python MPI benchmarking, scaling and efficiency analysis |
@@ -47,7 +46,6 @@ I prefer projects that move beyond a notebook demo: **problem definition → dat
 |---|---|---|
 | **[DeepfakeULTRA](https://github.com/seydivakkas/DeepfakeULTRA)** | Reliability-aware deepfake forensics with multi-evidence fusion, frequency analysis and XAI | **0.9820 internal ROC-AUC**, **0.7405 mean external ROC-AUC** across 5 datasets, explicit failure disclosure |
 | **[SİNAPTİC5G](https://github.com/seydivakkas/sinaptic5g)** | Real-time Edge AI and 5G road-safety perception | **15,487-image** governed dataset pipeline, 9 canonical labels, model-lock/FTR acceptance evidence |
-| **[WeaveVision](https://github.com/seydivakkas/WeaveVision)** | One-class visual anomaly detection for textile quality control | PatchCore / EfficientAD, `PASS · REVIEW · FAIL · ABSTAIN`, drift lifecycle, live CI |
 | **[Halı AI Carpet Design](https://github.com/seydivakkas/hali-ai-carpet-design)** | Controlled generative design with SDXL + LoRA | Provenance-aware workflow, retrieval, CIELAB / ΔE analysis, documented 52-test pilot snapshot, live CI |
 | **[TinyOLED Desktop](https://github.com/seydivakkas/TinyOLED-Desktop)** | Raspberry Pi + SSD1306 embedded desktop | Custom framebuffer engine, cooperative scheduler, **57+ apps** and live browser simulator |
 | **[MPI Parallel Matrix Multiplication](https://github.com/seydivakkas/mpi-parallel-matrix-multiplication)** | C / Python distributed computing benchmarks | MPI scaling experiments across P=1,2,4,8,16; Python reached **11.33× speedup at P=16** in the documented N=512 benchmark |
@@ -134,7 +132,6 @@ The goal is not only to make a model work, but to make the **claim auditable**.
 
 - **Flagship research:** [DeepfakeULTRA](https://github.com/seydivakkas/DeepfakeULTRA)
 - **Real-time / Edge AI:** [SİNAPTİC5G](https://github.com/seydivakkas/sinaptic5g)
-- **Industrial vision:** [WeaveVision](https://github.com/seydivakkas/WeaveVision)
 - **Generative design:** [Halı AI Carpet Design](https://github.com/seydivakkas/hali-ai-carpet-design)
 - **Embedded systems:** [TinyOLED Desktop](https://github.com/seydivakkas/TinyOLED-Desktop)
 - **Parallel computing:** [MPI Parallel Matrix Multiplication](https://github.com/seydivakkas/mpi-parallel-matrix-multiplication)
