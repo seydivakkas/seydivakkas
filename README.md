@@ -2,57 +2,59 @@
 
 # Seydi Vakkas Eryılmaz
 
-### Applied AI · Computer Vision · Reliable ML Systems · Research → Production
+### Uygulamalı Yapay Zekâ · Bilgisayarlı Görü · Güvenilir Makine Öğrenmesi · Araştırmadan Üretime
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Seydi%20Vakkas%20ERYILMAZ-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seydi-vakkas/)
 [![GitHub](https://img.shields.io/badge/GitHub-seydivakkas-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/seydivakkas)
-[![Profile Views](https://komarev.com/ghpvc/?username=seydivakkas&style=flat-square&label=Profile%20Views)](https://github.com/seydivakkas)
+[![Profil Görüntülenmeleri](https://komarev.com/ghpvc/?username=seydivakkas&style=flat-square&label=Profil%20G%C3%B6r%C3%BCnt%C3%BClenmeleri)](https://github.com/seydivakkas)
 
-**AI Research → Edge AI → Industrial AI → Generative AI → Embedded Systems → HPC**
+**Yapay Zekâ Araştırmaları → Uçta Yapay Zekâ → Endüstriyel Yapay Zekâ → Üretken Yapay Zekâ → Gömülü Sistemler → Yüksek Başarımlı Hesaplama**
 
 </div>
 
 ---
 
-## About
+## Hakkımda
 
-I build **research-driven AI and intelligent systems** with an emphasis on measurable performance, robustness, explainability, deployment and engineering evidence.
+**Araştırma temelli yapay zekâ ve akıllı sistemler** geliştiriyorum. Çalışmalarımda ölçülebilir performansa, dayanıklılığa, açıklanabilirliğe, gerçek ortama aktarılabilirliğe ve doğrulanabilir mühendislik kanıtlarına önem veriyorum.
 
-My work spans three connected areas:
+Çalışmalarım üç temel alanda yoğunlaşıyor:
 
-- **AI Research:** deepfake forensics, explainable AI, domain generalization and reliability-aware decision systems
-- **Intelligent Systems:** edge AI, real-time computer vision, embedded systems and parallel computing
-- **Industrial AI:** visual anomaly detection, generative design, model lifecycle governance and production-oriented ML workflows
+- **Yapay Zekâ Araştırmaları:** Deepfake analizi, açıklanabilir yapay zekâ (XAI), alanlar arası genelleme ve güvenilirlik odaklı karar sistemleri.
+- **Akıllı Sistemler:** Uçta yapay zekâ (Edge AI), gerçek zamanlı bilgisayarlı görü, gömülü sistemler ve paralel hesaplama.
+- **Endüstriyel Yapay Zekâ:** Görsel anomali tespiti, üretken tasarım, model yaşam döngüsü yönetimi ve üretim odaklı makine öğrenmesi süreçleri.
 
-I prefer projects that move beyond a notebook demo: **problem definition → data contract → model design → evaluation → failure analysis → deployment → documentation**.
+Yalnızca bir not defterinde çalışan demolar yerine, **problemi tanımlamadan sonuçları doğrulamaya ve sistemi kullanıma sunmaya kadar** bütün aşamaları ele alan projeler geliştirmeyi tercih ediyorum.
 
 ---
 
-## Portfolio Map
+## Proje Portföyüm
 
-| Track | Flagship Project | What it demonstrates |
+| Alan | Öne Çıkan Proje | Teknik Kapsam |
 |---|---|---|
-| **AI Research** | **[DeepfakeULTRA](https://github.com/seydivakkas/DeepfakeULTRA)** | Multi-evidence deepfake forensics, XAI, domain shift and external evaluation |
-| **Edge AI** | **[SİNAPTİC5G](https://github.com/seydivakkas/sinaptic5g)** | Real-time perception, tracking, governed data pipelines and model-lock evidence |
-| **Generative AI** | **[Halı AI Carpet Design](https://github.com/seydivakkas/hali-ai-carpet-design)** | Controlled SDXL + LoRA generation, provenance, retrieval and analytical validation |
-| **Embedded Systems** | **[TinyOLED Desktop](https://github.com/seydivakkas/TinyOLED-Desktop)** | Raspberry Pi, SSD1306, custom framebuffer architecture and browser simulation |
-| **HPC** | **[MPI Parallel Matrix Multiplication](https://github.com/seydivakkas/mpi-parallel-matrix-multiplication)** | Distributed C/Python MPI benchmarking, scaling and efficiency analysis |
+| **Yapay Zekâ Araştırmaları** | **[DeepfakeULTRA](https://github.com/seydivakkas/DeepfakeULTRA)** | Çoklu kanıta dayalı deepfake analizi, XAI, alan kayması ve haricî değerlendirme |
+| **Uçta Yapay Zekâ (Edge AI)** | **[SİNAPTİC5G](https://github.com/seydivakkas/sinaptic5g)** | Gerçek zamanlı algılama, nesne takibi, kontrollü veri işleme hatları ve model sabitleme kanıtları |
+| **Üretken Yapay Zekâ** | **[Halı AI Carpet Design](https://github.com/seydivakkas/hali-ai-carpet-design)** | SDXL + LoRA ile kontrollü üretim, veri kökeni takibi, bilgi erişimi ve analitik doğrulama |
+| **Gömülü Sistemler** | **[TinyOLED Desktop](https://github.com/seydivakkas/TinyOLED-Desktop)** | Raspberry Pi, SSD1306, özgün framebuffer mimarisi ve tarayıcı simülasyonu |
+| **Yüksek Başarımlı Hesaplama (HPC)** | **[MPI Parallel Matrix Multiplication](https://github.com/seydivakkas/mpi-parallel-matrix-multiplication)** | C/Python ile dağıtık MPI performans testleri, ölçeklenme ve verimlilik analizi |
 
 ---
 
-## Featured Engineering Evidence
+## Öne Çıkan Projeler ve Teknik Bulgular
 
-| Project | Engineering Focus | Evidence / Highlights |
+Aşağıdaki sayısal bulgular, ilgili projelerde belgelenen deney ve değerlendirmeleri ifade eder.
+
+| Proje | Mühendislik Odağı | Belgelenen Bulgular |
 |---|---|---|
-| **[DeepfakeULTRA](https://github.com/seydivakkas/DeepfakeULTRA)** | Reliability-aware deepfake forensics with multi-evidence fusion, frequency analysis and XAI | **0.9820 internal ROC-AUC**, **0.7405 mean external ROC-AUC** across 5 datasets, explicit failure disclosure |
-| **[SİNAPTİC5G](https://github.com/seydivakkas/sinaptic5g)** | Real-time Edge AI and 5G road-safety perception | **15,487-image** governed dataset pipeline, 9 canonical labels, model-lock/FTR acceptance evidence |
-| **[Halı AI Carpet Design](https://github.com/seydivakkas/hali-ai-carpet-design)** | Controlled generative design with SDXL + LoRA | Provenance-aware workflow, retrieval, CIELAB / ΔE analysis, documented 52-test pilot snapshot, live CI |
-| **[TinyOLED Desktop](https://github.com/seydivakkas/TinyOLED-Desktop)** | Raspberry Pi + SSD1306 embedded desktop | Custom framebuffer engine, cooperative scheduler, **57+ apps** and live browser simulator |
-| **[MPI Parallel Matrix Multiplication](https://github.com/seydivakkas/mpi-parallel-matrix-multiplication)** | C / Python distributed computing benchmarks | MPI scaling experiments across P=1,2,4,8,16; Python reached **11.33× speedup at P=16** in the documented N=512 benchmark |
+| **[DeepfakeULTRA](https://github.com/seydivakkas/DeepfakeULTRA)** | Çoklu kanıt birleştirme, frekans analizi ve XAI ile güvenilirlik odaklı deepfake tespiti | **0,9820 dâhilî ROC-AUC**, 5 veri kümesinde **0,7405 ortalama haricî ROC-AUC**; başarısızlıkların açıkça belgelenmesi |
+| **[SİNAPTİC5G](https://github.com/seydivakkas/sinaptic5g)** | Gerçek zamanlı Edge AI ve 5G destekli yol güvenliği algılama | **15.487 görüntülük** kontrollü veri işleme hattı, 9 standart etiket, model sabitleme ve FTR kabul kanıtları |
+| **[Halı AI Carpet Design](https://github.com/seydivakkas/hali-ai-carpet-design)** | SDXL + LoRA ile kontrollü üretken tasarım | Veri kökenini izleyen iş akışı, bilgi erişimi, CIELAB / ΔE analizi, belgelenmiş 52 testlik pilot çalışma ve CI |
+| **[TinyOLED Desktop](https://github.com/seydivakkas/TinyOLED-Desktop)** | Raspberry Pi ve SSD1306 tabanlı gömülü masaüstü | Özgün framebuffer motoru, iş birlikçi görev zamanlayıcı, **57'den fazla uygulama** ve tarayıcı simülatörü |
+| **[MPI Parallel Matrix Multiplication](https://github.com/seydivakkas/mpi-parallel-matrix-multiplication)** | C/Python ile dağıtık hesaplama ve performans karşılaştırmaları | P=1, 2, 4, 8, 16 için MPI ölçeklenme deneyleri; belgelenmiş N=512 deneyinde P=16 ile Python tarafında **11,33 kat hızlanma** |
 
 ---
 
-## Engineering Stack
+## Kullandığım Teknolojiler
 
 <div align="center">
 
@@ -68,78 +70,78 @@ I prefer projects that move beyond a notebook demo: **problem definition → dat
 
 </div>
 
-**AI / ML**  
-`Python` · `PyTorch` · `Computer Vision` · `OpenCV` · `Transformers` · `XAI` · `Anomaly Detection` · `Generative AI`
+**Yapay Zekâ / Makine Öğrenmesi**  
+`Python` · `PyTorch` · `Bilgisayarlı Görü` · `OpenCV` · `Transformer` · `XAI` · `Anomali Tespiti` · `Üretken Yapay Zekâ`
 
-**Systems / Deployment**  
+**Sistemler / Dağıtım**  
 `CUDA` · `FastAPI` · `Streamlit` · `Gradio` · `Docker` · `C` · `MPI` · `Raspberry Pi`
 
-**Engineering Practice**  
-`Benchmarking` · `Testing` · `Data Governance` · `Failure Analysis` · `Model Evaluation` · `Reproducibility` · `Technical Documentation`
+**Mühendislik Yaklaşımı**  
+`Performans Karşılaştırması` · `Test` · `Veri Yönetişimi` · `Hata Analizi` · `Model Değerlendirmesi` · `Tekrarlanabilirlik` · `Teknik Dokümantasyon`
 
 ---
 
-## GitHub Activity
+## GitHub Etkinliğim
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=seydivakkas&show_icons=true&hide_border=true&rank_icon=github" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seydivakkas&layout=compact&hide_border=true&langs_count=8" height="165" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=seydivakkas&show_icons=true&hide_border=true&rank_icon=github&locale=tr" height="165" alt="GitHub istatistiklerim" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seydivakkas&layout=compact&hide_border=true&langs_count=8&locale=tr" height="165" alt="En çok kullandığım programlama dilleri" />
 
 </div>
 
-![Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=seydivakkas&hide_border=true&area=true)
+![GitHub katkı etkinliği](https://github-readme-activity-graph.vercel.app/graph?username=seydivakkas&hide_border=true&area=true)
 
-> The contribution graph is useful as a consistency signal; the portfolio is optimized for **auditable engineering evidence rather than commit volume alone**.
-
----
-
-## Current Focus
-
-- Reliable and explainable AI under **domain shift** and unseen conditions
-- **Edge AI** and real-time perception systems
-- Industrial computer vision with **calibrated / abstaining decisions**
-- Generative AI systems with **provenance, evaluation and controllability**
-- Research ideas that can be converted into **testable engineering artifacts**
+> Katkı grafiği, çalışma sürekliliğine ilişkin bir göstergedir. Ancak portföyümde **yalnızca commit sayısını değil; ölçülebilir, denetlenebilir ve belgelenebilir mühendislik çalışmalarını** öne çıkarıyorum.
 
 ---
 
-## How I Work
+## Güncel Çalışma Alanlarım
+
+- **Alan kayması (domain shift)** ve daha önce görülmemiş koşullar altında güvenilir ve açıklanabilir yapay zekâ.
+- **Uçta yapay zekâ (Edge AI)** ve gerçek zamanlı algılama sistemleri.
+- **Kalibre edilmiş kararlar ve gerektiğinde karar vermekten kaçınma** mekanizmalarıyla endüstriyel bilgisayarlı görü.
+- **Veri kökeni, değerlendirme ve kontrol edilebilirlik** odaklı üretken yapay zekâ sistemleri.
+- Araştırma fikirlerini **test edilebilir mühendislik çıktılarına** dönüştürme.
+
+---
+
+## Nasıl Çalışıyorum?
 
 ```text
-Problem
+Problem Tanımı
   ↓
-Assumptions & Data Contract
+Varsayımlar ve Veri Sözleşmesi
   ↓
-Baseline
+Başlangıç Modeli (Baseline)
   ↓
-Architecture / Algorithm
+Mimari / Algoritma Tasarımı
   ↓
-Evaluation & Stress Tests
+Değerlendirme ve Stres Testleri
   ↓
-Failure Analysis
+Hata Analizi
   ↓
-Deployment / Interface
+Dağıtım / Kullanıcı Arayüzü
   ↓
-Evidence & Documentation
+Kanıtlar ve Teknik Dokümantasyon
 ```
 
-The goal is not only to make a model work, but to make the **claim auditable**.
+Hedefim yalnızca çalışan bir model geliştirmek değil, **elde edilen sonuçların nasıl üretildiğini ve hangi koşullarda geçerli olduğunu doğrulanabilir hâle getirmek**.
 
 ---
 
-## Explore
+## Projelerimi Keşfet
 
-- **Flagship research:** [DeepfakeULTRA](https://github.com/seydivakkas/DeepfakeULTRA)
-- **Real-time / Edge AI:** [SİNAPTİC5G](https://github.com/seydivakkas/sinaptic5g)
-- **Generative design:** [Halı AI Carpet Design](https://github.com/seydivakkas/hali-ai-carpet-design)
-- **Embedded systems:** [TinyOLED Desktop](https://github.com/seydivakkas/TinyOLED-Desktop)
-- **Parallel computing:** [MPI Parallel Matrix Multiplication](https://github.com/seydivakkas/mpi-parallel-matrix-multiplication)
+- **Yapay zekâ araştırmaları:** [DeepfakeULTRA](https://github.com/seydivakkas/DeepfakeULTRA)
+- **Gerçek zamanlı algılama / Edge AI:** [SİNAPTİC5G](https://github.com/seydivakkas/sinaptic5g)
+- **Üretken tasarım:** [Halı AI Carpet Design](https://github.com/seydivakkas/hali-ai-carpet-design)
+- **Gömülü sistemler:** [TinyOLED Desktop](https://github.com/seydivakkas/TinyOLED-Desktop)
+- **Paralel hesaplama:** [MPI Parallel Matrix Multiplication](https://github.com/seydivakkas/mpi-parallel-matrix-multiplication)
 
 <div align="center">
 
-### Research-driven engineering. Measurable systems. Evidence before claims.
+### Araştırma odaklı mühendislik. Ölçülebilir sistemler. İddialardan önce kanıt.
 
-[LinkedIn](https://www.linkedin.com/in/seydi-vakkas/) · [Repositories](https://github.com/seydivakkas?tab=repositories)
+[LinkedIn](https://www.linkedin.com/in/seydi-vakkas/) · [Tüm GitHub Depolarım](https://github.com/seydivakkas?tab=repositories)
 
 </div>
